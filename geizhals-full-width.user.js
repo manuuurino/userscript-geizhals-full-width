@@ -3,9 +3,9 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://geizhals.de/*
 // @grant       none
-// @version     1.0
+// @version     1.0.1
 // @author      manuuurino
-// @description Removes width limitations on Geizhals.de to use full browser width
+// @description Removes width limitations on Geizhals.de to use full browser width (capped at 1920px).
 // @namespace   https://github.com/manuuurino/userscript-geizhals-full-width
 // @license     MIT
 // @downloadURL https://update.greasyfork.org/scripts/530922/Geizhals%20full%20width.user.js
