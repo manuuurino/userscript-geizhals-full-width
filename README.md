@@ -20,7 +20,7 @@ Install a userscript manager extension for your browser:
 
 1. Install a userscript manager ([see above](#requriements))
 2. Create a new script in your userscript manager
-3. Copy and paste the content of [geizhals-full-width.user.js](./geizhals-full-width.user.js) into it
+3. Copy and paste the content of [geizhals-full-width.user.js](https://github.com/manuuurino/userscript-geizhals-full-width/raw/main/geizhals-full-width.user.js) into it
 4. Save the script
 
 ## License
