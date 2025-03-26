@@ -1,6 +1,6 @@
-# Geizhals.de full width userscript
+# Geizhals full width userscript
 
-Removes width limitations on [Geizhals.de](https://geizhals.de/) to use full browser width (capped at 1920px).
+Removes width limitations on [Geizhals](https://geizhals.de/) (de/eu/at) to use full browser width (capped at 1920px).
 
 ## Installation
 
